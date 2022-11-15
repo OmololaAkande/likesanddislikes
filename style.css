@@ -1,0 +1,22 @@
+.lists{
+  color: blue;
+} 
+
+#ul-dislikes #dl-list3{
+  color:red;
+ 
+}
+
+#likes .lists{
+  color:brown;
+}
+
+ ul{
+  list-style-type: circle;
+} 
+
+ol{
+  border: 1px solid black;
+  padding: 32px;
+  width:25%;
+}
